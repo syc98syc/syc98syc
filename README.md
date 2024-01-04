@@ -1,6 +1,6 @@
 
-<div align=center>
-<h1>😄 Always look on the bright side! 😄</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=😄Always&nbsp;look&nbsp;on&nbsp;the&nbsp;bright&nbsp;side!😄&fontSize=40&theme=gruvbox)
+
 
 <!--
 **syc98syc/syc98syc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
