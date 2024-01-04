@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=😄Always&nbsp;look&nbsp;on&nbsp;the&nbsp;bright&nbsp;side!😄&fontSize=40&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=😄Always&nbsp;look&nbsp;on&nbsp;the&nbsp;bright&nbsp;side!😄&fontSize=40&theme=tokyonight)
 
 
 <!--
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyc98syc&count_bg=%23E2E2E2&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyc98syc&count_bg=%2338BDAE&title_bg=%231A1B27&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
