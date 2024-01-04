@@ -1,5 +1,6 @@
-### Hi there 👋
-# look on the bright side
+
+<div align=center>
+<h1>😄 Always look on the bright side! 😄</h1>
 
 <!--
 **syc98syc/syc98syc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
