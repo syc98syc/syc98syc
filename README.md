@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=😄Always&nbsp;look&nbsp;on&nbsp;the&nbsp;bright&nbsp;side!😄&fontSize=40&theme=gruvbox)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=😄Always&nbsp;look&nbsp;on&nbsp;the&nbsp;bright&nbsp;side!😄&fontSize=40&theme=dark)
 
 
 <!--
