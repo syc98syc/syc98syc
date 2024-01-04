@@ -59,7 +59,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/yolo-D00000?style=for-the-badge&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  <br>
+
+  
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/atmega128-A22846?style=for-the-badge&logo=atmega128&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
