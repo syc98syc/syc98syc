@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=1E90FF&height=120&section=header&text=🌟Let's&nbsp;do&nbsp;it&nbsp;today🌟&fontSize=40&fontColor=FFFFFF)
 
-<div align=center><h1>⚔️ Skills  🚶‍♂️</h1></div>
+<div><h1>⚔️ Skills  🚶‍♂️</h1></div>
 
 <details>
   <summary>🖥️ 프로그래밍 언어</summary>
