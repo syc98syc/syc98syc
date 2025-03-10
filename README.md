@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=🌟Let's&nbsp;do&nbsp;it&nbsp;today🌟&fontSize=40&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=🌟Let's&nbsp;do&nbsp;it&nbsp;today🌟&fontSize=40&theme=gruvbox)
+
 
 <div align=center><h1>⚔️ Skills  🚶‍♂️</h1></div>
 
